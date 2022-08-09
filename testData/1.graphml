@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<!-- undirected graphs -->
+<graphml xmlns:xlink=" http://www.w3.org/1999/xlink">
+  <graph id="189029" edgeids=" true" edgemode="defaultdirected" edgedefault="undirected" hypergraph="false">
+        <node id="0">
+    <attr name="symbol">
+    <string>8</string>
+    </attr>
+</node>
+<node id="1">
+    <attr name="symbol">
+    <string>8</string>
+    </attr>
+</node>
+<node id="2">
+    <attr name="symbol">
+    <string>8</string>
+    </attr>
+</node>
+<node id="3">
+    <attr name="symbol">
+    <string>7</string>
+    </attr>
+</node>
+<node id="4">
+    <attr name="symbol">
+    <string>7</string>
+    </attr>
+</node>
+<node id="5">
+    <attr name="symbol">
+    <string>7</string>
+    </attr>
+</node>
+<node id="6">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="7">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="8">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="9">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="10">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="11">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="12">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="13">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="14">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="15">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="16">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="17">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="18">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="19">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="20">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="21">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="22">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<node id="23">
+    <attr name="symbol">
+    <string>6</string>
+    </attr>
+</node>
+<edge to="12" from="0" isdirected="false">
+    <attr name="order">
+    <string>1</string>
+    </attr>
+</edge><edge to="15" from="0" isdirected="false">
+    <attr name="order">
+    <string>1</string>
+    </attr>
+</edge><edge to="9" from="1" isdirected="false">
+    <attr name="order">
+    <string>2</string>
+    </attr>
+</edge><edge to="12" from="2" isdirected="false">
+    <attr name="order">
+    <string>2</string>
+    </attr>
+</edge><edge to="6" from="3" isdirected="false">
+    <attr name="order">
+    <string>1</string>
+    </attr>
+</edge><edge to="12" from="3" isdirected="false">
+    <attr name="order">
+    <string>1</string>
+    </attr>
+</edge><edge to="5" from="4" isdirected="false">
+    <attr name="order">
+    <string>2</string>
+    </attr>
+</edge><edge to="18" from="4" isdirected="false">
+    <attr name="order">
+    <string>2</string>
+    </attr>
+</edge><edge to="7" from="6" isdirected="false">
+    <attr name="order">
+    <string>1</string>
+    </attr>
+</edge><edge to="9" from="6" isdirected="false">
+    <attr name="order">
+    <string>1</string>
+    </attr>
+</edge><edge to="8" from="7" isdirected="false">
+    <attr name="order">
+    <string>1</string>
+    </attr>
+</edge><edge to="10" from="8" isdirected="false">
+    <attr name="order">
+    <string>2</string>
+    </attr>
+</edge><edge to="11" from="8" isdirected="false">
+    <attr name="order">
+    <string>1</string>
+    </attr>
+</edge><edge to="18" from="9" isdirected="false">
+    <attr name="order">
+    <string>1</string>
+    </attr>
+</edge><edge to="13" from="10" isdirected="false">
+    <attr name="order">
+    <string>1</string>
+    </attr>
+</edge><edge to="14" from="11" isdirected="false">
+    <attr name="order">
+    <string>2</string>
+    </attr>
+</edge><edge to="16" from="13" isdirected="false">
+    <attr name="order">
+    <string>2</string>
+    </attr>
+</edge><edge to="16" from="14" isdirected="false">
+    <attr name="order">
+    <string>1</string>
+    </attr>
+</edge><edge to="17" from="15" isdirected="false">
+    <attr name="order">
+    <string>1</string>
+    </attr>
+</edge><edge to="19" from="17" isdirected="false">
+    <attr name="order">
+    <string>2</string>
+    </attr>
+</edge><edge to="20" from="17" isdirected="false">
+    <attr name="order">
+    <string>1</string>
+    </attr>
+</edge><edge to="21" from="19" isdirected="false">
+    <attr name="order">
+    <string>1</string>
+    </attr>
+</edge><edge to="22" from="20" isdirected="false">
+    <attr name="order">
+    <string>2</string>
+    </attr>
+</edge><edge to="23" from="21" isdirected="false">
+    <attr name="order">
+    <string>2</string>
+    </attr>
+</edge><edge to="23" from="22" isdirected="false">
+    <attr name="order">
+    <string>1</string>
+    </attr>
+</edge>
+  </graph>
+</graphml>
