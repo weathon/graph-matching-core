@@ -33,5 +33,6 @@ def GED(name1, name2):
     return ged.compute_edit_distance(graph_list[name1], graph_list[name2])
 
 
-load_graph("../pyCMT/GED/dataForReal/")
-print(GED(179, 180))
+if __name__ == "__main__":
+    load_graph("../dataForReal/")
+    print(GED(179, 180))

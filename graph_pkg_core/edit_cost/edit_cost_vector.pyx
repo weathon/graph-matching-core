@@ -21,6 +21,8 @@ cdef class EditCostVector(EditCost):
         if self.metric_name == 'euclidean':
             self.metric = euclidean_vector
 
+        if self.metric_name == "dirac":
+            self.metric = dirac
     cpdef double cost_insert_node(self, Node node) except? -1:
         """
         Compute the cost to insert a node in the graph
